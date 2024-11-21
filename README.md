@@ -25,5 +25,5 @@
 <h1 align="center">CSE Department Event Management System</h1>
 
 <br>
-The proposed system is a *University Event Management System (UEMS)* that allows the administration, faculty, and students to efficiently organize, manage, and participate in university-related events such as workshops, seminars, sports, or cultural fests. The system will automate various processes, including event registration, notifications, schedules, feedback collection, and result announcements. This project idea can be developed step by step by applying the *Software Development Life Cycle (SDLC)* to ensure a high-quality system.
+The proposed system is a *CSE Department Event Management System (CDEMS)* that allows the administration, department, and students to efficiently organize, manage, and participate in department-related events such as workshops, seminars, sports, or cultural fests. The system will automate various processes, including event registration, notifications, schedules, feedback collection, and result announcements. This project idea can be developed step by step by applying the *Software Development Life Cycle (SDLC)* to ensure a high-quality system.
 <br>
