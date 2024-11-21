@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="Event.png" alt="HSTU Logo" width="250" height="250">
+  <img src="Event.png" alt="Event Logo" width="250" height="250">
 </p>
 
 <br><br>
@@ -83,4 +83,10 @@ The proposed system is a **CSE Department Event Management System (CDEMS)** that
 - Write a project report detailing the purpose, features, and expected benefits.
 - Include diagrams, mockups, and descriptions of workflows.
 - Document potential future extensions or implementation plans.
+
+## Class Diagram
+<br>
+<p align="center">
+  <img src="class.png" alt="CDEMS class Diagram" height="400">
+</p>
 
