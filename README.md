@@ -1,1 +1,1 @@
-# cseEventManagement
+# CSE_Event_Management
