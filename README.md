@@ -3,3 +3,8 @@
 </p>
 
 # CSE_Event_Management
+
+<p align="center">
+  <img src="Event.png" alt="HSTU Logo" width="250" height="300">
+</p>
+
