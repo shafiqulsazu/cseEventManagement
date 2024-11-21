@@ -89,12 +89,12 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 <br>
 <p align="center">
   <img src="class.png" alt="CDEMS class Diagram" height="400">
-</p>
+</
 
 ## Test Cases Sample
 
 |Test ID |         Test Condition                    |     Test Steps                                |      Test Input                          |    Test outcome        |    Actual Outcome    |   Status    |
-|--------|-------------------------------------------|-----------------------------------------------|------------------------------------------|------------------------|----------------------|-------------|     |        |                                           |                                               |                                          |                        |                      |             |
+|--------|-------------------------------------------|-----------------------------------------------|------------------------------------------|------------------------|----------------------|-------------|
 |  1     |With valid user ID & password if login able|1.Enter username<br>2.Enter password<br>3.Login|Username:shafiqul<br>Password:hstushafiqul|    Login successful    |   Login successful   |    Pass     |
 |        |                                           |                                               |                                          |                        |                      |             |
 |        |                                           |                                               |                                          |                        |                      |             |
