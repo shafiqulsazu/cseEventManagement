@@ -122,12 +122,12 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 
 
 
-|Activity              |Week 1|Week 2|Week 3|Week 4|Week 5|Week 6|Week 7|Week 8|Week 9|Week 10|
-|----------------------|------|----------   |---------------------------|-------------|-------|
-|Requirement Analysis  |██████|             |                           |             |       |
-|System Design         |      |██████████   |                           |             |       |
-|Conceptualization     |      |             |██████████████             |             |       |
-|Testing               |      |             |                           |██████████   |       |
-|Deployment            |      |             |                           |             |██████ |       |
-|Maintenance           |      |             |                           |             |       |████████████████████ (Ongoing)
+|Activity              |Week 1|Week 2 Week 3|Week 4 Week 5 Week 6 Week 7|Week 8 Week 9|Week 10|Week N              |
+|----------------------|------|-------------|---------------------------|-------------|-------|--------------------|
+|Requirement Analysis  |██████|             |                           |             |       |                    |
+|System Design         |      |██████████   |                           |             |       |                    |
+|Conceptualization     |      |             |██████████████             |             |       |                    |
+|Testing               |      |             |                           |██████████   |       |                    |
+|Deployment            |      |             |                           |             |██████ |                    |
+|Maintenance           |      |             |                           |             |       |████████████████████|(Ongoing)
 
