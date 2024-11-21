@@ -32,7 +32,6 @@ The proposed system is a *CSE Department Event Management System (CDEMS)* that a
 ## Planning
 **Objective**: Define the scope and purpose of the idea.
 **Activities**:
--Identify the need for the project (e.g., ease of managing departmental events)
--Determine the target users (students, department, organizers).
--Outline key goals, such as organizing workshops, seminars, fests, and sports effectively.-
-
+- Identify the need for the project (e.g., ease of managing departmental events)
+- Determine the target users (students, department, organizers).
+- Outline key goals, such as organizing workshops, seminars, fests, and sports effectively.
