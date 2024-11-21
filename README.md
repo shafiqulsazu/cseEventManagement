@@ -109,3 +109,12 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 ## Gantt Chart Representation
 
 [Gantt chart](https://www.gantt.com/) for my **CSE Department Event Management System** based on my **Software Development Life Cycle (SDLC)**:
+
+|          Activity                  |   Duration      |        Dependencies              |
+|------------------------------------|-----------------|----------------------------------|
+| Requirement Analysis               |    1 week       |   None                           |
+| System Design                      |    2 weeks      |   Requirement Analysis           |
+| Conceptualization                  |    4 weeks      |   System Design                  |
+| Testing                            |    2 weeks      |   Conceptualization              |
+| Deployment                         |    1 week       |   Testing                        |
+| Maintainance                       |    Ongoing      |   Deployment                     |
