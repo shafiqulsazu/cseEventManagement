@@ -85,8 +85,22 @@ The proposed system is a **CSE Department Event Management System (CDEMS)** that
 - Document potential future extensions or implementation plans.
 
 ## Class Diagram
+The Class Diagram for the **CSE Department Event Management System** is designed to represent the various entities involved in managing department events efficiently. It illustrates the different classes and their relationships, providing an abstraction of the system's core components.
 <br>
 <p align="center">
   <img src="class.png" alt="CDEMS class Diagram" height="400">
 </p>
 
+## Test Cases Sample
+
+|Test ID |         Test Condition           |     Test Steps       |      Test Input             |    Test outcome        |    Actual Outcome    |   Status    |
+|--------|----------------------------------|----------------------|-----------------------------|------------------------|----------------------|-------------|
+|  1     | With valid user ID & password if | 1.Enter username     |  Username:shafiqul          |    Login successful    |   Login successful   |    Pass     |
+|        | login able                       | 2.Enter password     |  Password:hstushafiqul      |                        |                      |             |
+|        |                                  | 3.Login              |                             |                        |                      |             |
+|--------|----------------------------------|----------------------|-----------------------------|------------------------|----------------------|-------------|
+|  2     | With invalid user Id & password  | 1.Enter username     |  Username:sazu              |  Login unsuccessful    |  Login unsuccessful  |    Pass     |
+|        |                                  | 2.Enter password     |  Password:hstusazu          |                        |                      |             |
+|        |                                  | 3.Login              |                             |                        |                      |             |
+|--------|----------------------------------|----------------------|-----------------------------|------------------------|----------------------|-------------|
+<br>
