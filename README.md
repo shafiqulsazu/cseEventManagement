@@ -135,14 +135,10 @@ The Class Diagram for the **CSE Department Event Management System** is designed
  <h1 align="center">Submitted By</h1>
 
  **Name**: Md. Shafiqul Islam Sazu
- **ID**: 2102035
- **Level**: 3 **Semester**: I
- **Department**: Computer Science and Engineering
+ **ID**: 2102035<br>**Level**: 3 **Semester**: I<br>**Department**: Computer Science and Engineering
  <br>
 
 <h1 align="center">Submitted To</h1>
 
- **Name**: Pankaj Bhowmik
- **Position**: Lecturer
- **Department**: Computer Science and Engineering, HSTU
+ **Name**: Pankaj Bhowmik<br>**Position**: Lecturer<br>**Department**: Computer Science and Engineering, HSTU
 
