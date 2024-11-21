@@ -110,24 +110,49 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 
 ## Event Creation
 
-|Test ID | Test Case Description                       |  Expected Output                                        |  Actual Output                           |  Status            |
+|Test ID | Test Case Description                       |  Expected Outcome                                       |  Actual Outcome                          |  Status            |
 |--------|---------------------------------------------|---------------------------------------------------------|------------------------------------------|--------------------|
 |  1     |	Create a new event with valid details      | Event is successfully created and saved to the system   | Create Event Successfully                |   Pass             |
 |  2     |Create an event with missing mandatory fields|System shows an error message for missing required fields| Event created Failed                     |   Pass             |
 <br>
 
+## User Management
 
 |Test ID |         Test Condition                    |     Test Steps                                |      Test Input                          |    Test outcome        |    Actual Outcome    |   Status    |
 |--------|-------------------------------------------|-----------------------------------------------|------------------------------------------|------------------------|----------------------|-------------|
 |  3     |With valid user ID & password if login able|1.Enter username<br>2.Enter password<br>3.Login|Username:shafiqul<br>Password:hstushafiqul|    Login successful    |   Login successful   |    Pass     |
 |        |                                           |                                               |                                          |                        |                      |             |
-|        |                                           |                                               |                                          |                        |                      |             |
-|        |                                           |                                               |                                          |                        |                      |             |
 |  4     | With invalid user Id & password           |1.Enter username<br>2.Enter password<br>3.Login|Username:sazu<br>Password:hstusazu        |  Login unsuccessful    |  Login unsuccessful  |    Pass     |
-|        |                                           |                                               |                                          |                        |                      |             |
-|        |                                           |                                               |                                          |                        |                      |             |
+
 
 <br>
+
+## Schedule Management
+
+|Test ID | Test Case Description                           |  Expected Outcome                                      |   Actual Outcome                           |   Status            |
+|--------|-------------------------------------------------|--------------------------------------------------------|--------------------------------------------|---------------------|
+|  5     |Create a schedule for an event with valid details|Schedule is successfully created and linked to the event|    Schedule successfully created           |   Pass              |
+|  6     |Create a schedule with overlapping time slots    |System shows an error for overlapping schedules         |        Show an error                       |   Pass              |
+|  7     |	Update an existing schedule                    |		Schedule updates are saved successfully             |         Schedule Updated                   |   Pass              |
+<br>
+
+## Participant Management
+
+|Test ID | Test Case Description                           |  Expected Outcome                                 |    Actual Outcome                  |   Status         |
+|--------|-------------------------------------------------|---------------------------------------------------|------------------------------------|------------------|
+|  8     |Add participants to an event                     | Participants are added successfully to the event  |      Participants added            |   Pass           |
+|  9     |	Remove participants from an event              | Participants are removed successfully             |      Participants Removed          |   Pass           |
+|  10    |	Attempt to add participants with invalid data  |Shows an error message for invalid participant data|      Invalid Data                  |   Pass           |
+<br>
+
+##  System Validation and Security
+
+|Test ID | Test Case Description                          |  Expected Outcome                                   |  Actual Outcome                      |   Status        |
+|--------|------------------------------------------------|-----------------------------------------------------|--------------------------------------|-----------------|
+|  11    |	Test access control for organizer-only actions|Non-organizer users cannot perform restricted actions|        Access Denied                 |    Pass         |
+|  12    | Validate input fields against SQL injection    | System prevents any malicious SQL injection attempts|   You have been blocked              |    Pass         |
+<br><br>
+ 
 
 ## Requirement Analysis
 
@@ -141,11 +166,11 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 
 **Activities**: Code event management features, user management, schedule management, etc.<br>**Duration**: 4 weeks<br>**Dependencies**: System Design<br>
 
-##Testing
+## Testing
 
 **Activities**: Test individual components, perform integration testing.<br>**Duration**: 2 weeks<br>**Dependencies**: Implementation<br>
 
-##Deployment
+## Deployment
 
 **Activities**: Deploy the system on servers, configure the environment.<br>**Duration**: 1 week<br>**Dependencies**: Testing<br>
 
