@@ -134,7 +134,7 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 
  <h1 align="center">Submitted By</h1>
 
- <p align="center">## Name: Md. Shafiqul Islam Sazu<br>Student ID: 2102035<br>Level: 3 Semester: I<br>Department: Computer Science and Engineering</p>
+ <p align="center">Name: Md. Shafiqul Islam Sazu<br>Student ID: 2102035<br>Level: 3 Semester: I<br>Department: Computer Science and Engineering</p>
  <br>
 
 <h1 align="center">Submitted To</h1>
