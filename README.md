@@ -95,12 +95,12 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 
 |Test ID |         Test Condition           |     Test Steps       |      Test Input             |    Test outcome        |    Actual Outcome    |   Status    |
 |--------|----------------------------------|----------------------|-----------------------------|------------------------|----------------------|-------------|
-|  1     | With valid user ID & password if | 1.Enter username     |  Username:shafiqul          |    Login successful    |   Login successful   |    Pass     |
-|        | login able                       | 2.Enter password     |  Password:hstushafiqul      |                        |                      |             |
+|  1     | With valid user ID & password if | 1.Enter username<br> |  Username:shafiqul          |    Login successful    |   Login successful   |    Pass     |
+|        | login able                       | 2.Enter password<br> |  Password:hstushafiqul      |                        |                      |             |
 |        |                                  | 3.Login              |                             |                        |                      |             |
-|--------|----------------------------------|----------------------|-----------------------------|------------------------|----------------------|-------------|
-|  2     | With invalid user Id & password  | 1.Enter username     |  Username:sazu              |  Login unsuccessful    |  Login unsuccessful  |    Pass     |
-|        |                                  | 2.Enter password     |  Password:hstusazu          |                        |                      |             |
+|        |                                  |                      |                             |                        |                      |             |
+|  2     | With invalid user Id & password  | 1.Enter username<br> |  Username:sazu              |  Login unsuccessful    |  Login unsuccessful  |    Pass     |
+|        |                                  | 2.Enter password<br> |  Password:hstusazu          |                        |                      |             |
 |        |                                  | 3.Login              |                             |                        |                      |             |
 
 <br>
