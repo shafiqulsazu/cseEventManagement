@@ -88,7 +88,7 @@ The proposed system is a **CSE Department Event Management System (CDEMS)** that
 The Class Diagram for the **CSE Department Event Management System** is designed to represent the various entities involved in managing department events efficiently. It illustrates the different classes and their relationships, providing an abstraction of the system's core components.
 <br>
 <p align="center">
-  <img src="class.png" alt="CDEMS class Diagram" height="400">
+  <img src="Class.png" alt="CDEMS class Diagram" height="400">
 </p>
 <br>
 
