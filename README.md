@@ -3,17 +3,28 @@
 </p>
 
 <h3 align="center">
+  Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200.
+</h3>
+
+<h3 align="center">
   Course Title: Software Engineering
 </h3>
 
 <h3 align="center">
   Course Code: CSE 305
 </h3>
+<br>
+<h1 align="center">Submitted By</h1>
 
-<h3 align="center">
-  Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200.
-</h3>
-<br><br>
+ <p align="center">Md. Shafiqul Islam Sazu<br>Student ID: 2102035<br>Level: 3 Semester: I<br>Department of Computer Science and Engineering</p>
+ <br>
+
+<h1 align="center">Submitted To</h1>
+
+ <p align="center">Pankaj Bhowmik<br>Lecturer<br>Department of Computer Science and Engineering</p>
+
+
+<br>
 
 
 <p align="center">
@@ -141,12 +152,5 @@ This project aims to minimize manual effort, enhance collaboration, and provide 
 We hope this project serves as a valuable tool for the department and contributes to the success of academic and extracurricular events. For further enhancements or issues, feel free to refer to the documentation or raise queries in the project repository.
 <br><br><br>
 
- <h1 align="center">Submitted By</h1>
-
- <p align="center">Md. Shafiqul Islam Sazu<br>Student ID: 2102035<br>Level: 3 Semester: I<br>Department of Computer Science and Engineering</p>
- <br>
-
-<h1 align="center">Submitted To</h1>
-
- <p align="center">Pankaj Bhowmik<br>Lecturer<br>Department of Computer Science and Engineering</p>
+ 
 
