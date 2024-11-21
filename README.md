@@ -151,7 +151,7 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 |--------|------------------------------------------------|-----------------------------------------------------|--------------------------------------|-----------------|
 |  11    |	Test access control for organizer-only actions|Non-organizer users cannot perform restricted actions|        Access Denied                 |    Pass         |
 |  12    | Validate input fields against SQL injection    | System prevents any malicious SQL injection attempts|   You have been blocked              |    Pass         |
-<br><br>
+<br>
  
 
 ## Requirement Analysis
