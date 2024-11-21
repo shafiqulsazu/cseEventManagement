@@ -37,3 +37,10 @@ The proposed system is a *CSE Department Event Management System (CDEMS)* that a
 - Determine the target users (students, department, organizers).
 - Outline key goals, such as organizing workshops, seminars, fests, and sports effectively.
 
+## Requirements Analysis
+
+**Objective**: Identify the expected features and constraints of the system.
+**Activities**:
+-List functional requirements (e.g., event scheduling, participant registration).
+-Document non-functional requirements (e.g., user-friendly interface, file-based storage).
+-Analyze potential challenges (e.g., limited resources, user adoption).
