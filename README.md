@@ -106,19 +106,52 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 </p>
 <br>
 
-## Test Cases Sample
+## Test Cases Samples:
+
+## Event Creation
+
+|Test ID | Test Case Description                       |  Expected Output                                        |  Actual Output                           |  Status            |
+|--------|---------------------------------------------|---------------------------------------------------------|------------------------------------------|--------------------|
+|  1     |	Create a new event with valid details      | Event is successfully created and saved to the system   | Create Event Successfully                |   Pass             |
+|  2     |Create an event with missing mandatory fields|System shows an error message for missing required fields| Event created Failed                     |   Pass             |
+<br>
+
 
 |Test ID |         Test Condition                    |     Test Steps                                |      Test Input                          |    Test outcome        |    Actual Outcome    |   Status    |
 |--------|-------------------------------------------|-----------------------------------------------|------------------------------------------|------------------------|----------------------|-------------|
-|  1     |With valid user ID & password if login able|1.Enter username<br>2.Enter password<br>3.Login|Username:shafiqul<br>Password:hstushafiqul|    Login successful    |   Login successful   |    Pass     |
+|  3     |With valid user ID & password if login able|1.Enter username<br>2.Enter password<br>3.Login|Username:shafiqul<br>Password:hstushafiqul|    Login successful    |   Login successful   |    Pass     |
 |        |                                           |                                               |                                          |                        |                      |             |
 |        |                                           |                                               |                                          |                        |                      |             |
 |        |                                           |                                               |                                          |                        |                      |             |
-|  2     | With invalid user Id & password           |1.Enter username<br>2.Enter password<br>3.Login|Username:sazu<br>Password:hstusazu        |  Login unsuccessful    |  Login unsuccessful  |    Pass     |
+|  4     | With invalid user Id & password           |1.Enter username<br>2.Enter password<br>3.Login|Username:sazu<br>Password:hstusazu        |  Login unsuccessful    |  Login unsuccessful  |    Pass     |
 |        |                                           |                                               |                                          |                        |                      |             |
 |        |                                           |                                               |                                          |                        |                      |             |
 
 <br>
+
+## Requirement Analysis
+
+**Activities**: Gather and analyze requirements, define system features.<br>**Duration**: 1 week<br>**Dependencies**: None<br>
+
+## System Design
+
+**Activities**: Design class diagrams, flowcharts, and database schema.<br>**Duration**: 2 weeks<br>**Dependencies**: Requirement Analysis<br>
+
+## Conceptualization (Coding)
+
+**Activities**: Code event management features, user management, schedule management, etc.<br>**Duration**: 4 weeks<br>**Dependencies**: System Design<br>
+
+##Testing
+
+**Activities**: Test individual components, perform integration testing.<br>**Duration**: 2 weeks<br>**Dependencies**: Implementation<br>
+
+##Deployment
+
+**Activities**: Deploy the system on servers, configure the environment.<br>**Duration**: 1 week<br>**Dependencies**: Testing<br>
+
+## Maintenance
+
+**Activities**: Fix bugs, add new features as necessary.<br>**Duration**: Ongoing<br>**Dependencies**: Deployment<br><br>
 
 ## Gantt Chart Representation
 
