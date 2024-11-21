@@ -105,3 +105,7 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 |        |                                           |                                               |                                          |                        |                      |             |
 
 <br>
+
+## Gantt Chart Representation
+
+[Gantt chart] for my **CSE Department Event Management System** based on my **Software Development Life Cycle (SDLC)**:
