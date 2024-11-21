@@ -120,15 +120,14 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 | Maintainance                       |    Ongoing      |   Deployment                     |
 <br>
 
-## [Gantt chart](https://www.gantt.com/) Representation:
 
 
-Activity              | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 |
-------------------------------------------------------------------------------------------------
-Requirement Analysis  |  ██████ |
-System Design         |         ██████████ |
-Conceptualization     |               ██████████████ |
-Testing               |                         ██████████ |
-Deployment            |                                   ██████ |
-Maintenance           |                                         ████████████████████ (Ongoing)
+|Activity              | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 |
+|----------------------|--------|-----------|-----------------------------------------------------
+|Requirement Analysis  |  ██████|           |
+|System Design         |         ██████████ |
+|Conceptualization     |               ██████████████ |
+|Testing               |                         ██████████ |
+|Deployment            |                                   ██████ |
+|Maintenance           |                                         ████████████████████ (Ongoing)
 
