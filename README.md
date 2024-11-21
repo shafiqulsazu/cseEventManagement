@@ -20,3 +20,8 @@
   <img src="Event.png" alt="HSTU Logo" width="250" height="250">
 </p>
 
+<br><br><br>
+
+<h1 align="center">CSE Department Event Management System</h1>
+
+<br>
