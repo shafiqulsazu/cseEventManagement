@@ -89,7 +89,8 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 <br>
 <p align="center">
   <img src="class.png" alt="CDEMS class Diagram" height="400">
-</
+</p>
+<br>
 
 ## Test Cases Sample
 
