@@ -27,3 +27,12 @@
 <br>
 The proposed system is a *CSE Department Event Management System (CDEMS)* that allows the administration, department, and students to efficiently organize, manage, and participate in department-related events such as workshops, seminars, sports, or cultural fests. The system will automate various processes, including event registration, notifications, schedules, feedback collection, and result announcements. This project idea can be developed step by step by applying the *Software Development Life Cycle (SDLC)* to ensure a high-quality system.
 <br>
+
+<br>
+Planning
+Objective: Define the scope and purpose of the idea.
+Activities:
+Identify the need for the project (e.g., ease of managing departmental events).
+Determine the target users (students, department, organizers).
+Outline key goals, such as organizing workshops, seminars, fests, and sports effectively.
+<br>
