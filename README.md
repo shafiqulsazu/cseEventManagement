@@ -132,6 +132,15 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 |Maintenance           |      |             |                           |             |       |████████████████████|(Ongoing)
 <br>
 
+## Conclusion
+
+The **CSE Department Event Management System** is designed to streamline the process of organizing and managing departmental events efficiently. With its robust features for handling events, schedules, participants, and resources, the system ensures that every aspect of event planning and execution is seamlessly integrated.
+
+This project aims to minimize manual effort, enhance collaboration, and provide a centralized platform for managing events of varying scales. By following the outlined development phases and utilizing the provided resources, the system can be further extended and customized to meet specific departmental needs.
+
+We hope this project serves as a valuable tool for the department and contributes to the success of academic and extracurricular events. For further enhancements or issues, feel free to refer to the documentation or raise queries in the project repository.
+<br>
+
  <h1 align="center">Submitted By</h1>
 
  <p align="center">Md. Shafiqul Islam Sazu<br>Student ID: 2102035<br>Level: 3 Semester: I<br>Department of Computer Science and Engineering</p>
