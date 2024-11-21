@@ -20,12 +20,12 @@
   <img src="Event.png" alt="HSTU Logo" width="250" height="250">
 </p>
 
-<br><br><br>
+<br><br>
 
 <h1 align="center">CSE Department Event Management System</h1>
 
 
-The proposed system is a **CSE Department Event Management System (CDEMS)** that allows the administration, department, and students to efficiently organize, manage, and participate in department-related events such as workshops, seminars, sports, or cultural fests. The system will automate various processes, including event registration, notifications, schedules, feedback collection, and result announcements. This project idea can be developed step by step by applying the ## Software Development Life Cycle (SDLC) to ensure a high-quality system.
+The proposed system is a **CSE Department Event Management System (CDEMS)** that allows the administration, department, and students to efficiently organize, manage, and participate in department-related events such as workshops, seminars, sports, or cultural fests. The system will automate various processes, including event registration, notifications, schedules, feedback collection, and result announcements. This project idea can be developed step by step by applying the **Software Development Life Cycle (SDLC)** to ensure a high-quality system.
 
 
 <h1 align="center">SDLC phases apply to my CSE Department Event Management System</h1>
