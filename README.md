@@ -153,6 +153,7 @@ The Class Diagram for the **CSE Department Event Management System** is designed
 |  12    | Validate input fields against SQL injection    | System prevents any malicious SQL injection attempts|   You have been blocked              |    Pass         |
 <br>
  
+## [Gantt chart](https://www.gantt.com/) Explanation For SDLC:
 
 ## Requirement Analysis
 
